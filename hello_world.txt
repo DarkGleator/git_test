@@ -1,1 +1,1 @@
-Isto é um aviso amarelo!
+Isto é um aviso vermelho!
